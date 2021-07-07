@@ -1,6 +1,6 @@
 .cover__item {
   position: relative;
-  background-image: url('./images/cover-trains.jpg');
+  background-image: url('../../../images/cover-trains.jpg');
   background-size: cover;
   min-height: 700px;
   display: flex;
