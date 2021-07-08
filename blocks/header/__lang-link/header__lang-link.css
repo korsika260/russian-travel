@@ -1,19 +1,19 @@
-.header__lang__item-link {
+.header__lang-link {
   color: #FFFFFF;
   text-decoration: none;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
   font-size: 24px;
   line-height: 28px;
   transition: 0.7s opacity;
 }
 
 @media screen and (max-width: 767px) {
-  .header__lang__item-link {
+  .header__lang-link {
     font-size: 18px;
     line-height: 20px;
   }
 }
 
-.header__lang__item-link:hover {
+.header__lang-link:hover {
   opacity: 0.6;
 }

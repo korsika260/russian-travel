@@ -1,4 +1,4 @@
-.page__section__intro {
+.page-section__intro {
   max-width: 690px;
   padding-left: 100px;
   padding-top: 92px;
@@ -6,13 +6,13 @@
 }
 
 @media screen and (max-width: 1023px) {
-  .page__section__intro {
+  .page-section__intro {
     padding-top: 88px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .page__section__intro {
+  .page-section__intro {
     padding-top: 64px;
     padding-left: 16px;
   }

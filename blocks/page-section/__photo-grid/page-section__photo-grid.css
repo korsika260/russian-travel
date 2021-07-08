@@ -1,15 +1,15 @@
-.page__section__photo-grid {
+.page-section__photo-grid {
   padding-top: 92px;
 }
 
 @media screen and (max-width: 1023px) {
-  .page__section__photo-grid {
+  .page-section__photo-grid {
     padding-top: 88px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .page__section__photo-grid {
+  .page-section__photo-grid {
     padding-top: 64px;
   }
 }
