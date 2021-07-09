@@ -6,7 +6,7 @@
 @import url("../blocks/page-section/__header/page-section__header.css");
 @import url("../blocks/header/__lang/header__lang.css");
 @import url("../blocks/header/__lang-link/header__lang-link.css");
-@import url("../blocks/header/__lang-link_active/header__lang-link_active.css");
+@import url("../blocks/header/__lang-link/_active/header__lang-link_active.css");
 @import url("../blocks/header/__logo/header__logo.css");
 @import url("../blocks/content/content.css");
 @import url("../blocks/lead/lead.css");
@@ -35,7 +35,7 @@
 @import url("../blocks/place/__image/place__image.css");
 @import url("../blocks/place/__paragraph/place__paragraph.css");
 @import url("../blocks/cover/cover.css");
-@import url("../blocks/page-section__cover/page-section__cover.css");
+@import url("../blocks/page-section/__cover/page-section__cover.css");
 @import url("../blocks/cover/__link/cover__link.css");
 @import url("../blocks/cover/__title/cover__title.css");
 @import url("../blocks/cover/__subtitle/cover__subtitle.css");

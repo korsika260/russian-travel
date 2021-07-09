@@ -26,6 +26,6 @@
   .place {
     grid-template-columns: 320px;
     gap: 0px;
-    margin-top: 50px;
+    margin-bottom: 50px;
   }
 }
